@@ -1,4 +1,4 @@
-# Gioco_Bowling
+# MiniGame_Bowling
 
 - Creation of a mini bowling game in javascript using events and objects.
 
